@@ -1,0 +1,19 @@
+i.icon{
+    font-size: 2em;
+}
+
+.container.main{
+    margin-top: 4.0em;
+}
+
+#delete{
+    display: inline;
+}
+
+body{
+    background-image: url('https://images.unsplash.com/photo-1526576935508-6bccc1e07580?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=305958f6a4a0761d3cb5e845b70e8e64&auto=format&fit=crop&w=500&q=60');
+}
+
+#title{
+   
+}
